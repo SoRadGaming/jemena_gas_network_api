@@ -24,7 +24,7 @@ app.use(bodyParser.urlencoded({extended: true,}))
 
 // GET REQUESTS
 app.get('/', (request, response) => {
-    response.json({ info: 'Node.js, Express, and Postgres API' })
+    response.json({ info: 'Node.js, Express, and Jemena Gas API' })
 })
 
 // POST, DELETE, PUT REQUESTS: TO be Added (if required)
