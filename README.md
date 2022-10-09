@@ -1,6 +1,8 @@
 # Jemena Gas Network API
 Ability to Query their API with CORS, Jerma is the Sydney Gas Network Provider
 
+Used for https://github.com/SoRadGaming/gas-availability-extension
+
 ### Parameters:
 **houseNumber:** The house number of the address you want to query
 
